@@ -33,12 +33,12 @@
     ```bash
     git fetch
     ```
-6. Pull 
+6. Pull
 
     Fetch from and integrate with another repository or a local branch
 
     ```bahs
-    git pull 
+    git pull
     ```
 7. Push
 
@@ -51,7 +51,7 @@
 8. Index and modified fyles
 
     All files
-    
+
     ```bash
     git add .
     ```
