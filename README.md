@@ -47,3 +47,11 @@
     ```bash
     git push
     ```
+
+8. Index and modified fyles
+
+    All files
+    
+    ```bash
+    git add .
+    ```
